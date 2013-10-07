@@ -4,7 +4,7 @@ user = raw_input()
 print "user chose", user
 print  "computer chose", computer
 
-while raw_input() != "quit"
+while raw_input() != "quit":
 if user == "rock" and computer == "rock";
      print "tie"
 elif user == 'paper' and computer == 'rock';
